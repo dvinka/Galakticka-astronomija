@@ -4,3 +4,5 @@ U toku semestra, imaćemo 6 vježbi i projekat.
 2. vežba: 28. oktobar, rok za predaju je 10. novembar u 23.59
 3. vežba: obzirom da je 11. novembar neradni dan, okačena je 03. novembra, a rok za predaju je 24. novembar u 23.59
 4. vežba: 25. novembar, rok za predaju je 08. decembar u 23.59
+5. vežba: 09. decembar
+6. vežba: 23. decembar
